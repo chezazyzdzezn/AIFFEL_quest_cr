@@ -1,3 +1,6 @@
+```bash
+
+
 AIFFEL_quest_cr/
 ├── directory_structure.txt
 ├── Exploration
@@ -210,3 +213,5 @@ AIFFEL_quest_cr/
 └── README.md
 
 56 directories, 214 files
+
+```
